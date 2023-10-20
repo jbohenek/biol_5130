@@ -5,8 +5,6 @@ tank,block,initial_dens,date,stocked,larval_period,photo,mass_g,hl,svl,tl,hw,phe
 13,Block 2,3,7/2/2017,1/21/2017,162,DSC_7067,5.445,13.36,48.849,96.295,11.959,Metamorph,Terrestrial
 13,Block 2,3,9/19/2017,1/21/2017,241,DSC_7208,7.77,13.754,52.712,115.674,12.743,Metamorph,Terrestrial
 13,Block 2,3,12/15/2017,1/21/2017,328,DSC_8037,11.083,14.821,58.735,124.451,12.659,Paedomorph,Aquatic
-8,Block 1,3,12/14/2017,1/20/2017,328,DSC_7978,7.672,12.845,53.444,108.277,13.092,Paedomorph,Aquatic
-8,Block 1,3,12/14/2017,1/20/2017,328,DSC_7979,8.145,14.341,58.721,120.318,13.426,Paedomorph,Aquatic
 31,Block 4,8,6/10/2017,1/24/2017,137,DSC_6964,3.261,11.585,41.754,76.145,10.814,Metamorph,Terrestrial
 31,Block 4,8,10/20/2017,1/24/2017,269,DSC_7294,7.24,13.723,52.138,106.682,12.586,Metamorph,Terrestrial
 31,Block 4,8,12/15/2017,1/24/2017,325,DSC_8165,9.52,15.255,59.71,118.299,13.331,Paedomorph,Aquatic
