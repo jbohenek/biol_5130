@@ -1,4 +1,4 @@
-Code,Revise,Exam,Anxiety,Gender
+Code,Revise,Exam,Anxiety,Sex
 1,4,40,86.298,Male
 2,11,65,88.716,Female
 3,27,80,70.178,Male
@@ -22,7 +22,7 @@ Code,Revise,Exam,Anxiety,Gender
 21,14,80,80.656,Male
 22,12,75,77.432,Male
 23,22,85,65.342,Female
-24,84,90,0.0560000000000116,Female
+24,84,90,0.056,Female
 25,23,30,71.79,Female
 26,26,60,81.462,Female
 27,24,75,63.73,Male
